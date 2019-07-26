@@ -1,2 +1,4 @@
 # Node-Interface
-JavaScript framework for visual programming
+JavaScript framework for visual programming<br/><br/>
+![Nodes Image](/nodes.png)
+
