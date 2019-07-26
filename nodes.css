@@ -1,0 +1,51 @@
+html,body{
+  height: 100%;
+  margin: 0;
+}
+#d3ne {
+    height: 100%;
+   position: relative;
+}
+
+.socket.data {
+    background: rgb(143, 125, 224);
+}
+
+.socket.act {
+    background: rgb(16, 202, 16);
+    border-radius: 0 !important;
+    width: 16px !important;
+    
+}
+
+.context-menu .item{
+     background-color: #000;
+}
+id {
+    position: relative;
+    left: -6px;
+    top: -6px;
+    background: white;
+}
+
+button.compile {
+        z-index: 5;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+#file-selected{
+display: none;
+}
+#algorithm-applied{
+display: none;
+}
+#output{
+display: none;
+}
+
+.file-selected:hover #file-selected{
+    display: block;
+
+}
